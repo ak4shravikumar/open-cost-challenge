@@ -151,8 +151,8 @@ prod         pod-456      10.00    3.50     0.00     13.50
   ![MCP Server Logs](docs/images/mcp-server.png)
 
 * **Mock Server**
-  ![Mock Server](docs/images/<img width="1039" height="301" alt="mockopencostserver" src="https://github.com/user-attachments/assets/23bdff6a-a0e2-4311-9ce1-e533f20c1ee1" />
-.png)
+  ![Mock Server](https://github.com/user-attachments/assets/8a38c998-0f21-44e2-99e4-1be2e80384b9)
+
 
 ---
 
