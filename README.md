@@ -148,22 +148,21 @@ MCP CLI Client
 
 ## 📸 Screenshots
 
-* **MCP Server Logs**
+* **MCP Server Logs**  
   ![Server Running](https://github.com/user-attachments/assets/d92c796e-77e4-46c0-97eb-1b4a4c9ce2f8)
 
-* **Mock Server**
+* **Mock Server**  
   ![Mock Server](https://github.com/user-attachments/assets/8a38c998-0f21-44e2-99e4-1be2e80384b9)
 
-* **CLI Session – Allocations**
-  ![Allocation 1](https://github.com/user-attachments/assets/36ecdbd4-00b1-4e38-93ae-dc7c931dc167)
+* **CLI Session – Allocations**  
+  ![Allocation 1](https://github.com/user-attachments/assets/36ecdbd4-00b1-4e38-93ae-dc7c931dc167)  
   ![Allocation 2](https://github.com/user-attachments/assets/30349aac-88b4-49b9-ad1a-1013be283a05)
 
-* **CLI Session – Cloud Costs**
+* **CLI Session – Cloud Costs**  
   ![Cloud Cost](https://github.com/user-attachments/assets/fcc59501-e013-4eee-9d5b-42bf59fc9201)
 
-* **CLI Session – quit**
- ![Quitting Session](https://github.com/user-attachments/assets/d282afc1-b4b8-4c26-a68a-ea25d619d31e)
-
+* **CLI Session – Quit**  
+  ![Quitting Session](https://github.com/user-attachments/assets/d282afc1-b4b8-4c26-a68a-ea25d619d31e)
 
 
 ---
