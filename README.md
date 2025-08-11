@@ -15,7 +15,7 @@
 5. [Installation & Setup](#️-installation--setup)
 6. [Usage](#-usage)
 7. [Architecture Diagram](#-architecture-diagram)
-8. [Screenshots / Demo](#-screenshots--demo)
+8. [Screenshots ](#-screenshots)
 9. [Contributing](#-contributing)
 10. [Contact](#-contact)
 
@@ -153,27 +153,30 @@ MCP CLI Client
 
 ---
 
-## 📸 Screenshots / Demo
+## 📸 Screenshots 
 
-1. **MCP Server Running**
-   ![MCP Server Running](docs/mcp_server_running.png)
 
-2. **Mock Server Running**
-   ![Mock Server Running](docs/mock_server_running.png)
 
-3. **CLI Session Allocation-1**
-   ![CLI Session Allocation-1](docs/cli_alloc1.png)
+### 1. First Server Setup
+![First Server](docs/first_server.png)
 
-4. **CLI Session Allocation-2**
-   ![CLI Session Allocation-2](docs/cli_alloc2.png)
+### 2. Mock Server
+![Mock Server](docs/mock_server.png)
 
-5. **CLI Session Cloud Cost**
-   ![CLI Session Cloud Cost](docs/cli_cloudcost.png)
+### 3. Allocation Query – Example 1
+![Allocation Query 1](docs/allocation_1.png)
 
-6. **CLI Session Quitting Session**
-   ![CLI Session Quitting Session](docs/cli_quit.png)
+### 4. Allocation Query – Example 2
+![Allocation Query 2](docs/allocation_2.png)
 
----
+### 5. Cloud Cost Query
+![Cloud Cost](docs/cloudcost.png)
+
+### 6. CLI Conversation
+![CLI Conversation](docs/cli_conversation.png)
+
+### 7. Session End
+![Session End](docs/session_end.png)
 
 ## 🤝 Contributing
 
