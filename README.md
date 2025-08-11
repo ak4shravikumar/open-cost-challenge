@@ -75,7 +75,7 @@ open-cost-challenge/
 ## ⚙️ Installation & Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/open-cost-challenge.git
+   git clone https://github.com/ak4shravikumar/open-cost-challenge.git
    cd open-cost-challenge
 ````
 
@@ -151,7 +151,8 @@ prod         pod-456      10.00    3.50     0.00     13.50
   ![MCP Server Logs](docs/images/mcp-server.png)
 
 * **Mock Server**
-  ![Mock Server](docs/images/mock-server.png)
+  ![Mock Server](docs/images/<img width="1039" height="301" alt="mockopencostserver" src="https://github.com/user-attachments/assets/23bdff6a-a0e2-4311-9ce1-e533f20c1ee1" />
+.png)
 
 ---
 
@@ -169,10 +170,10 @@ We welcome contributions!
 
 ## 📬 Contact
 
-* **Author:** Your Name
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **GitHub:** [your-username](https://github.com/your-username)
-* **Project URL:** [https://github.com/your-username/open-cost-challenge](https://github.com/your-username/open-cost-challenge)
+* **Author:** Akash Ravikumar
+* **Email:** [ak4shravikumar@gmail.com](mailto:ak4shravikumar@gmail.com)
+* **GitHub:** [ak4shravikumar](https://github.com/ak4shravikumar)
+* **Project URL:** [https://github.com/ak4shravikumar/open-cost-challenge](https://github.com/ak4shravikumar/open-cost-challenge)
 
 ```
 
