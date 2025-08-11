@@ -1,8 +1,8 @@
-'''
+
+
+```markdown
 # 🚀 MCP Server Project 
 
-
-  
 *A context-aware MCP server for cloud costs, allocations, and assets*
 
 ---
@@ -57,14 +57,21 @@ This project demonstrates how to design an AI-friendly API layer with session me
 ```
 
 open-cost-challenge/
-│── mock\_server/        # Mock OpenCost backend service
+│── mock\_server/         # Mock OpenCost backend service
 │   └── mock\_opencost\_server.go
-│── mcp\_server/         # MCP (Multi-Context Processor) server
+│── mcp\_server/          # MCP (Multi-Context Processor) server
 │   ├── main.go
 │   └── opencost\_client.go
-│── cli\_client/         # Go CLI client for interactive queries
+│── cli\_client/          # Go CLI client for interactive queries
 │   └── main.go
-│── go.mod              # Go module dependencies
+│── docs/                # Documentation and screenshots
+│   ├── mcp\_server\_running.png
+│   ├── mock\_server\_running.png
+│   ├── cli\_alloc1.png
+│   ├── cli\_alloc2.png
+│   ├── cli\_cloudcost.png
+│   └── cli\_quit.png
+│── go.mod               # Go module dependencies
 │── .gitignore
 │── README.md
 
@@ -129,7 +136,7 @@ prod         pod-456      10.00    3.50     0.00     13.50
 
 ## 🏗 Architecture Diagram
 
-* ** Visual Representation of Architecture Diagram **
+```
 MCP CLI Client
  ├─> User Query → Select Endpoint
  │    └─> AgenticQuery JSON
@@ -142,32 +149,29 @@ MCP CLI Client
  │     └─> Format Response
  └─> CLI Output
        └─> Session Logs
-
+```
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots / Demo
 
-## 📸 Screenshots
+1. **MCP Server Running**
+   ![MCP Server Running](docs/mcp_server_running.png)
 
-1. **MCP Server Running**  
-![MCP Server Running](https://github.com/user-attachments/assets/d92c796e-77e4-46c0-97eb-1b4a4c9ce2f8)
+2. **Mock Server Running**
+   ![Mock Server Running](docs/mock_server_running.png)
 
-2. **Mock Server Running**  
-![Mock Server](https://github.com/user-attachments/assets/8a38c998-0f21-44e2-99e4-1be2e80384b9)
+3. **CLI Session Allocation-1**
+   ![CLI Session Allocation-1](docs/cli_alloc1.png)
 
-3. **CLI Session Allocation-1**  
-![CLI Session Allocation-1](https://github.com/user-attachments/assets/36ecdbd4-00b1-4e38-93ae-dc7c931dc167)
+4. **CLI Session Allocation-2**
+   ![CLI Session Allocation-2](docs/cli_alloc2.png)
 
-4. **CLI Session Allocation-2**  
-![CLI Session Allocation-2](https://github.com/user-attachments/assets/30349aac-88b4-49b9-ad1a-1013be283a05)
+5. **CLI Session Cloud Cost**
+   ![CLI Session Cloud Cost](docs/cli_cloudcost.png)
 
-5. **CLI Session Cloud Cost**  
-![CLI Session Cloud Cost](https://github.com/user-attachments/assets/fcc59501-e013-4eee-9d5b-42bf59fc9201)
-
-6. **CLI Session Quitting Session**  
-![CLI Session Quitting Session](https://github.com/user-attachments/assets/d282afc1-b4b8-4c26-a68a-ea25d619d31e)
-
+6. **CLI Session Quitting Session**
+   ![CLI Session Quitting Session](docs/cli_quit.png)
 
 ---
 
