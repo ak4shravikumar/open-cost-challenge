@@ -194,7 +194,7 @@ We welcome contributions!
 
 * **Author:** Akash Ravikumar
 * **Email:** [ak4shravikumar@gmail.com](mailto:ak4shravikumar@gmail.com)
-* **GitHub:** [ak4shravikumar](https://github.com/ak4shravikumar)
+* **GitHub:** [ak4shravikumar](https://github.com/ak4shravikumar/)
 * **Project URL:** [https://github.com/ak4shravikumar/open-cost-challenge](https://github.com/ak4shravikumar/open-cost-challenge)
 
 ```
