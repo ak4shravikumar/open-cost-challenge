@@ -1,8 +1,8 @@
 '''
 # 🚀 MCP Server Project 
 
-![Project Banner](![Uploading project_banner.png…]()
-)  
+
+  
 *A context-aware MCP server for cloud costs, allocations, and assets*
 
 ---
@@ -129,29 +129,41 @@ prod         pod-456      10.00    3.50     0.00     13.50
 
 ## 🏗 Architecture Diagram
 
-![Architecture Diagram](docs/images/architecture.png)
-*(Replace with your actual diagram in `/docs/images/architecture.png`)*
+* ** Visual Representation of Architecture Diagram **
+MCP CLI Client
+ ├─> User Query → Select Endpoint
+ │    └─> AgenticQuery JSON
+ ├─> Send → MCP Server
+ │     ├─> Manage Session Context
+ │     ├─> NLP → Backend Request
+ │     ├─> Route to Backend:
+ │     │     ├─ OpenCost API
+ │     │     └─ Mock Backend
+ │     └─> Format Response
+ └─> CLI Output
+       └─> Session Logs
+
 
 ---
 
-## 📸 Screenshots / Demo
-
-*(Ensure actual `.png` images exist in `/docs/images/` so they don’t break)*
-
-* **CLI Session – Allocations**
-  ![CLI Allocations](docs/images/cli-allocations.png)
-
-* **CLI Session – Cloud Costs**
-  ![CLI Cloud Costs](docs/images/cli-cloudcosts.png)
-
-* **CLI Session – Assets**
-  ![CLI Assets](docs/images/cli-assets.png)
+## 📸 Screenshots
 
 * **MCP Server Logs**
-  ![MCP Server Logs](docs/images/mcp-server.png)
+  ![Server Running](https://github.com/user-attachments/assets/d92c796e-77e4-46c0-97eb-1b4a4c9ce2f8)
 
 * **Mock Server**
   ![Mock Server](https://github.com/user-attachments/assets/8a38c998-0f21-44e2-99e4-1be2e80384b9)
+
+* **CLI Session – Allocations**
+  ![Allocation 1](https://github.com/user-attachments/assets/36ecdbd4-00b1-4e38-93ae-dc7c931dc167)
+  ![Allocation 2](https://github.com/user-attachments/assets/30349aac-88b4-49b9-ad1a-1013be283a05)
+
+* **CLI Session – Cloud Costs**
+  ![Cloud Cost](https://github.com/user-attachments/assets/fcc59501-e013-4eee-9d5b-42bf59fc9201)
+
+* **CLI Session – quit**
+ ![Quitting Session](https://github.com/user-attachments/assets/d282afc1-b4b8-4c26-a68a-ea25d619d31e)
+
 
 
 ---
