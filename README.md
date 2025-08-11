@@ -148,17 +148,26 @@ MCP CLI Client
 
 ## 📸 Screenshots
 
-| **MCP Server Logs** | **Mock Server** |
-|---------------------|-----------------|
-| ![Server Running](https://github.com/user-attachments/assets/d92c796e-77e4-46c0-97eb-1b4a4c9ce2f8) | ![Mock Server](https://github.com/user-attachments/assets/8a38c998-0f21-44e2-99e4-1be2e80384b9) |
+## 📸 Screenshots
 
-| **CLI Session – Allocations** | **CLI Session – Allocations (2)** |
-|-------------------------------|----------------------------------|
-| ![Allocation 1](https://github.com/user-attachments/assets/36ecdbd4-00b1-4e38-93ae-dc7c931dc167) | ![Allocation 2](https://github.com/user-attachments/assets/30349aac-88b4-49b9-ad1a-1013be283a05) |
+1. **MCP Server Running**  
+![MCP Server Running](https://github.com/user-attachments/assets/d92c796e-77e4-46c0-97eb-1b4a4c9ce2f8)
 
-| **CLI Session – Cloud Costs** | **CLI Session – Quit** |
-|------------------------------|-----------------------|
-| ![Cloud Cost](https://github.com/user-attachments/assets/fcc59501-e013-4eee-9d5b-42bf59fc9201) | ![Quitting Session](https://github.com/user-attachments/assets/d282afc1-b4b8-4c26-a68a-ea25d619d31e) |
+2. **Mock Server Running**  
+![Mock Server](https://github.com/user-attachments/assets/8a38c998-0f21-44e2-99e4-1be2e80384b9)
+
+3. **CLI Session Allocation-1**  
+![CLI Session Allocation-1](https://github.com/user-attachments/assets/36ecdbd4-00b1-4e38-93ae-dc7c931dc167)
+
+4. **CLI Session Allocation-2**  
+![CLI Session Allocation-2](https://github.com/user-attachments/assets/30349aac-88b4-49b9-ad1a-1013be283a05)
+
+5. **CLI Session Cloud Cost**  
+![CLI Session Cloud Cost](https://github.com/user-attachments/assets/fcc59501-e013-4eee-9d5b-42bf59fc9201)
+
+6. **CLI Session Quitting Session**  
+![CLI Session Quitting Session](https://github.com/user-attachments/assets/d282afc1-b4b8-4c26-a68a-ea25d619d31e)
+
 
 ---
 
