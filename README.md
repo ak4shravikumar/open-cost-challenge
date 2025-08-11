@@ -137,18 +137,9 @@ prod         pod-456      10.00    3.50     0.00     13.50
 ## 🏗 Architecture Diagram
 
 ```
-MCP CLI Client
- ├─> User Query → Select Endpoint
- │    └─> AgenticQuery JSON
- ├─> Send → MCP Server
- │     ├─> Manage Session Context
- │     ├─> NLP → Backend Request
- │     ├─> Route to Backend:
- │     │     ├─ OpenCost API
- │     │     └─ Mock Backend
- │     └─> Format Response
- └─> CLI Output
-       └─> Session Logs
+### Architecture Diagram
+![Architecture Diagram](docs/architecture_diagram.png)
+
 ```
 
 ---
